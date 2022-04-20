@@ -1,0 +1,238 @@
+*{
+    font-family:sans-serif;
+    position:relative;
+    text-decoration: none;
+    color:white;
+    margin:0px;
+    box-sizing:border-box;
+    background-color:#8367C7;
+    
+}
+html {
+    height:100%;
+}
+
+
+
+div a img {
+    margin:10px;
+    align-items:center;
+}
+
+#height{
+    height:100%;
+}
+
+.Header{
+    border:30px;
+    padding:10px;
+    background-color:#8367C7;
+    margin:0px;
+    justify-content:space-between;
+    display:flex;
+    
+}
+
+#font{
+    color:white;
+    position:relative;
+    
+}
+
+nav ul {
+    list-style:none;
+    display:flex;
+    padding:0px 10px;
+}
+
+nav ul li a {
+    
+    color:azure;
+    display:flex;
+    margin:10px;
+    font-size:20px;
+    padding:0px 10px;
+    
+}
+nav ul li:hover a{
+    background-color:orange;
+    border-radius:30px ;
+    color:darkblue;
+}
+
+#lel{
+    display:block;
+    text-align:center;
+    border-radius:25px 25px 25px 0%;
+    padding:10px;
+    margin:10px;
+    
+}
+#
+
+.button{
+    border-radius:50px;
+    background-color:purple;
+    
+}
+
+#Q001{
+    background:url(../img/Sky%20Mirror.jpg);
+    padding:0px;
+    display:cover;
+    
+    height:80vh;
+    min-width:100%;
+    position:relative;
+    
+    
+    background-repeat: no-repeat;
+    margin:0;
+}
+#Q002{
+    
+    text-align:center;
+    display:block;
+        padding:20px;
+    font-size:30px;
+}
+
+#Q003{
+    border-color:purple;
+    border-radius: 50px;    
+    border-top-left-radius:0px;
+    border-top-right-radius: 0px;
+    text-align:center;
+    
+    display:flex;
+    
+    padding:10px;
+}
+#A00{
+    background-color:transparent;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+}
+
+#A10{
+    display:flex; 
+    max-width:800px;
+	margin:0 auto;
+   
+}
+.circle{
+    border-radius:50px;
+}
+
+#A21{
+  background-color:#8367C7;
+    height:auto;
+    margin:0;
+    padding-top:20px;
+}
+
+#A20{
+    margin:0;
+    padding:25px;
+   background-color:#8367C7;
+    text-align:center;
+    
+}
+#A30{
+    display:flex; 
+    max-width:1000px;
+    margin:0 auto;    
+}
+.AA1{
+    text-align:center;
+}
+#AA2{
+    border-top:2px solid #5603AD;
+    padding:35px;
+    background-color:#8367C7;
+    margin-top:20px;
+    display: block;
+    text-align: center;
+    background-size: cover;
+    
+    width:100%;
+    
+    
+}
+
+.AA3{
+    text-align:center;
+    color:white;
+    font-size:20px;
+    border:2px solid #5603AD;
+    padding:10px;
+    max-width: 600px;
+    margin: 0 auto;  
+    
+    
+}
+
+.AA4{
+    padding:10px;
+    background-color:purple;
+}
+section div h1:hover a{
+    background-color:orange;
+    border-radius:30px ;
+    color:darkblue;
+}
+#B01{
+justify-content: space-between;
+    display:flex;
+
+}
+
+#B02{
+    
+    color:aliceblue;
+}
+
+#B03{
+   
+    background-color: rgba(0,0,0,0.5);
+     
+    display:block;
+    margin:0px;
+
+}
+#B04{
+   
+    display:block;
+    text-align:center;
+    border-color:#8367C7;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-width: 100%;
+    padding:10px;
+    margin:10px;
+    width:100%;
+    
+
+}
+
+
+#B05{
+    background:url(../img/Location.png);
+    background-size:cover;
+    position:relative;
+    width:50vw;
+    height:75vh;
+    position:relative;
+    display:flex;
+    left:25%;
+    
+    
+}
+
+section div div p:hover a{
+background-color:orange;
+    border-radius:30px ;
+    color:darkblue;
+    padding:0px 10px;
+}
+
